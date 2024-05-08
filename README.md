@@ -40,9 +40,11 @@ As part of my ongoing projects in QGIS, I am developing a unique web mapping app
 Below are some examples of the progress I've made with maps of Glen Forrest, showcasing both a grid overlay for gameplay and a poster-style map for storytelling:
 
 ![Glen Forrest Grid](https://github.com/Orthopyroxene/Cover-Letter/blob/main/Images/Glen_Forrest_Grid.png)
+
 *Figure 1: Interactive grid map of Glen Forrest.*
 
 ![Glen Forrest Poster](https://github.com/Orthopyroxene/Cover-Letter/blob/main/Images/Glen_Forrest_Poster.png)
+
 *Figure 2: Poster map of Glen Forrest.*
 
 These maps exemplify how geographical data can be transformed into engaging game aids, enhancing the D&D experience by grounding fantasy adventures in real-world locations.
