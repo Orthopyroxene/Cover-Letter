@@ -9,6 +9,8 @@ Explore the rich geological history of Western Australia through an interactive 
 - **Prospecting Application:** [Gold Prospecting in WA](http://157.245.201.158/~Barley/webapp/Index.html)
   - Navigate through various interactive maps and resources designed to provide an in-depth understanding of the terrain, including key locations and geological insights.
 
+
+
 ## Featured Articles
 
 I have authored several articles focusing on enhancing geochemical visualization in exploration and the practical applications of Micro-XRF technology. Below are links to some of my favourite articles for further reading:
