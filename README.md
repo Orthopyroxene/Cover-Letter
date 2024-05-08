@@ -32,9 +32,9 @@ For a detailed dive into the data, methodologies, and my conclusions, please ref
 As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision.
 
 ### Project Overview
-- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. Looking to develop skillset in relation to user interactivity. 
+- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. 
 - **Tools Used:** QGIS for map creation and processing, integrated into a web platform for interactive user engagement. Maps created using Inkarnate. 
-- **Current Status:** In development, with several prototype maps already created. Developing interactivity between large and small scale maps. 
+- **Current Status:** In development, with several prototype maps already created. 
 
 ### Sample Maps
 Below are some examples of the progress I've made with maps of Glen Forrest, showcasing both a grid overlay for gameplay and a poster-style map for storytelling:
@@ -47,10 +47,9 @@ Below are some examples of the progress I've made with maps of Glen Forrest, sho
 
 *Figure 2: Poster map of Glen Forrest.*
 
-These maps exemplify how geographical data can be transformed into engaging game aids, enhancing the D&D experience by grounding fantasy adventures in real-world locations.
+These maps are in the early stages of development. I am working on player interactivity by allowing users to seamlessly transition between large-scale suburb maps and detailed maps of landmarks and buildings. This feature aims to enrich the Dungeons & Dragons experience by anchoring fantasy adventures in real-world locations, thereby creating a link between fantasy and reality for the players.
 
 For more details on this project or to participate in its development, please contact me directly or contribute to this repository.
-
 
 # Prefessional Projects
 
