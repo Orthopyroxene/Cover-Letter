@@ -32,18 +32,18 @@ For a detailed dive into the data, methodologies, and my conclusions, please ref
 As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision.
 
 ### Project Overview
-- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings.
-- **Tools Used:** QGIS for map creation and processing, integrated into a web platform for interactive user engagement.
-- **Current Status:** In development, with several prototype maps already created.
+- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. Looking to develop skillset in relation to user interactivity. 
+- **Tools Used:** QGIS for map creation and processing, integrated into a web platform for interactive user engagement. Maps created using Inkarnate. 
+- **Current Status:** In development, with several prototype maps already created. Developing interactivity between large and small scale maps. 
 
 ### Sample Maps
 Below are some examples of the progress I've made with maps of Glen Forrest, showcasing both a grid overlay for gameplay and a poster-style map for storytelling:
 
 ![Glen Forrest Grid](https://github.com/Orthopyroxene/Cover-Letter/blob/main/Images/Glen_Forrest_Grid.png)
-*Figure: Interactive grid map of Glen Forrest designed for tactical gameplay.*
+*Figure 1: Interactive grid map of Glen Forrest.*
 
 ![Glen Forrest Poster](https://github.com/Orthopyroxene/Cover-Letter/blob/main/Images/Glen_Forrest_Poster.png)
-*Figure: Poster map of Glen Forrest, ideal for campaign storytelling and setting context.*
+*Figure 2: Poster map of Glen Forrest.*
 
 These maps exemplify how geographical data can be transformed into engaging game aids, enhancing the D&D experience by grounding fantasy adventures in real-world locations.
 
