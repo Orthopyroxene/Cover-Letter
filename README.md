@@ -29,7 +29,7 @@ For a detailed dive into the data, methodologies, and my conclusions, please ref
 
 ## Dungeons and Dragons Web Mapping Application
 
-As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision.
+As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision, for more information [click here](https://github.com/Orthopyroxene/Fantasy-Maps-with-QGIS/blob/main/README.md).
 
 ### Project Overview
 - **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. 
