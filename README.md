@@ -13,7 +13,7 @@ Explore the rich geological history of Western Australia through an interactive 
 
 ## Remote Sensing Report Summary - Mesquite Invasion in Pilbara
 
-I conducted a detailed study on the invasive spread of Mesquite (Prosopis) in the Pilbara region of Western Australia. The report titled "Mesquite Invasion in the Pilbara, Western Australia" utilized advanced remote sensing techniques to analyze the distribution and control measures over time.
+I conducted a detailed study on the invasive spread of Mesquite in the Pilbara region of Western Australia. The report titled "Mesquite Invasion in the Pilbara, Western Australia" utilized advanced remote sensing techniques to analyze the distribution and control measures over time.
 
 ### Key Points of the Study
 - **Objective:** To assess the effectiveness of various control methods used over the decades and recommend strategies for future management using remote sensing data.
