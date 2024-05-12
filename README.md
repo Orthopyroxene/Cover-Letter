@@ -1,6 +1,6 @@
 # Welcome to My Repo!
 
-Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming). This repository serves as a hub for sharing my work, insights, and valuable resources related to gold prospecting in Western Australia, as well as my contributions to the field of geochemical visualization and exploration technologies.
+Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming) at Tafe full-time. This repository serves as a hub for sharing my work, professional and academic.
 
 # Projects from my Post Graduate Studies
 
