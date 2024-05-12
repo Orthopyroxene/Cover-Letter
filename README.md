@@ -78,4 +78,4 @@ Reach out directly for collaborations or inquiries:
 - **Email:** barleyandrewjohn@gmail.com
 - **LinkedIn:** [Andrew Barley](https://www.linkedin.com/in/andrew-barley-2ab43b175/)
 
-Thank you for visiting this repository, and I hope you find these resources informative!
+Thank you for visiting this repository, and I hope you find this page helpful!
