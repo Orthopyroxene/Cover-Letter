@@ -1,6 +1,6 @@
 # Welcome to My Repo!
 
-Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming) at Tafe full-time. This repository serves as a hub for sharing my work, professional and academic.
+Hello! I'm Andrew, a passionate individual with a background in Applied Geology and Geospatial Intelligence. I am currently expanding my knowledge in Information Technology (Programming) at Tafe while completing post-graduate studies in Geospatial Intelligence at Curtin Uni. This repository serves as a hub for sharing my work, professional and academic.
 
 # Projects from my Post Graduate Studies
 
