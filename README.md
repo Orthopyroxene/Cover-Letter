@@ -8,8 +8,10 @@ Hello! I'm Andrew, a passionate individual with a background in Applied Geology 
 
 Explore the rich geological history of Western Australia through an interactive web application designed to assist prospectors and enthusiasts alike in discovering potential gold prospecting sites. This tool integrates geological, environmental, and structural data to identify promising areas for exploration.
 
-- **Prospecting Application:** [Gold Prospecting in WA](http://157.245.201.158/~Barley/webapp/Index.html)
+- **Prospecting Application:** [Gold Prospecting in WA](https://github.com/Orthopyroxene/Cover-Letter/tree/main/Prospecting%20Webmap)
   - Navigate through various interactive maps and resources designed to provide an in-depth understanding of the terrain, including key locations and geological insights.
+  - For a detailed report on the development of the webmap, please refer to [this report](https://github.com/Orthopyroxene/Cover-Letter/blob/main/GIS%20Reports/Prospecting_Webmapping_App.pdf).
+  - Note: currently do not have a domain for the web app so the href links in the navigation bar are not functional.
 
 ## Remote Sensing Report Summary - Mesquite Invasion in Pilbara
 
@@ -32,9 +34,9 @@ For a detailed dive into the data, methodologies, and my conclusions, please ref
 As part of my ongoing projects in QGIS, I am developing a unique web mapping application tailored for Dungeons and Dragons enthusiasts. This application allows users to create detailed, interactive maps based on real-world suburb data, enabling them to design and manage campaigns with geographic precision, for more information [click here](https://github.com/Orthopyroxene/Fantasy-Maps-with-QGIS/blob/main/README.md).
 
 ### Project Overview
-- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings. 
-- **Tools Used:** QGIS for map creation and processing, integrated into a web platform for interactive user engagement. Maps created using Inkarnate. 
-- **Current Status:** In development, with several prototype maps already created. 
+- **Objective:** To integrate real-world geography into D&D campaigns by transforming suburb maps into fantasy settings.
+- **Tools Used:** QGIS for map creation and processing, integrated into a web platform for interactive user engagement. Maps created using Inkarnate.
+- **Current Status:** In development, with several prototype maps already created.
 
 ### Sample Maps
 Below are some examples of the progress I've made with maps of Glen Forrest, showcasing both a grid overlay for gameplay and a poster-style map for storytelling:
@@ -51,18 +53,15 @@ These maps are in the early stages of development. I am working on player intera
 
 For more details on this project or to participate in its development, please contact me directly or contribute to this repository.
 
-# Prefessional Projects
+# Professional Projects
 
 ## Featured Articles
 
 I have authored several articles focusing on enhancing geochemical visualization in exploration and the practical applications of Micro-XRF technology. Below are links to some of my favourite articles for further reading:
 
 - **Enhancing Geochemical Visualization in Exploration - Part 1:** [Read Here](https://www.portaspecs.com/enhancing-geochemical-visualization-in-exploration/)
-  
 - **Enhancing Geochemical Visualization in Exploration - Part 2:** [Read Here](https://www.portaspecs.com/enhancing-geochemical-visualization-in-exploration-part-2/)
-  
 - **Delivering Christmas Joy with the Micro-XRF:** [Read Here](https://www.portaspecs.com/delivering-christmas-joy-with-the-micro-xrf/)
-  
 - **The Elemental Message from the Land of the Wallaby:** [Read Here](https://www.portaspecs.com/the-elemental-message-from-the-land-of-the-wallaby/)
 
 ## Articles featuring mineralogy I've worked on
