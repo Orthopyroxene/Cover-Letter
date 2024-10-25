@@ -69,7 +69,7 @@ I have authored several articles focusing on enhancing geochemical visualization
 
 ### Contributing
 
-Contributions, feedback, and discussions are welcome! If you're interested in contributing to this project or have any questions, please feel free to open an issue or submit a pull request.
+Contributions, feedback, and discussions are welcome! If you have any questions, please feel free to contact me.
 
 ### Contact
 
